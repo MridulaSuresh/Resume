@@ -1,0 +1,36 @@
+h2,h1{
+	color: #175e42;
+}
+a:hover{
+	color: #269468;
+}
+li,h2,a,p,h3,h1,h6{
+	font-family: Montserrat,san-serif;
+	font-weight: bold;
+}
+li{
+	font-size: 15px;
+list-style-position: inside;
+padding: 10px;
+}
+div p{
+	font-size: 15px;
+}
+div{
+	text-align: center;
+}
+.button{
+    display: block;
+    width: 110px;
+    height: 25px;
+    background: #269468;
+    padding: 20px;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    text-decoration: none;
+}
+.button:hover{
+	background: white;
+}
+
